@@ -19,7 +19,7 @@ li a {
   text-decoration: none;
 }
 
-#about p  {
+#about .Intro {
   color: black;
   font-size: 18px;
   text-align: center;
@@ -40,8 +40,16 @@ li a {
   height: 400px;
 }
 
+#about .Disclaimer {
+  text-align: center;
+  border: 1px solid black;
+  max-width: 25%;
+  margin: auto;
+}
 
 
 body h1 {
     color: blue;
   }
+
+
