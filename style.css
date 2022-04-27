@@ -19,7 +19,7 @@ li a {
   text-decoration: none;
 }
 
-#about .Intro {
+#home .Intro {
   color: black;
   font-size: 18px;
   text-align: center;
@@ -31,7 +31,7 @@ li a {
   margin: auto;
 }
 
-#about img {
+#home img {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -40,16 +40,15 @@ li a {
   height: 400px;
 }
 
-#about .Disclaimer {
+#home .disclaimer {
   text-align: center;
   border: 1px solid black;
   max-width: 25%;
   margin: auto;
 }
 
-
 body h1 {
-    color: blue;
-  }
+  color: blue;
+}
 
 
